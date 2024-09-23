@@ -2,8 +2,8 @@
 
 This is the Project Proposal for Programming For Scientists 
 
-Group name: Return True
+**Group Name**: Return True
 
-*Group Members: Emma Jia, Younger Wu, Jack Yang, Shirley Yang*
+**Group members**: Emma Jia, Younger Wu, Jack Yang, Shirley Yang
 
 

@@ -8,6 +8,7 @@ This is the Project Proposal for Programming For Scientists
 
 **Timeline**
 September (Week 1) 
+
 Create project proposal  (Sep 30)
 October (Week 2-3)
 Clean and preprocess data

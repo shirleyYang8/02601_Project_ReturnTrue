@@ -6,7 +6,7 @@ This is the Project Proposal for Programming For Scientists
 
 **Group members**: Emma Jia, Younger Wu, Jack Yang, Shirley Yang
 
-Timeline
+**Timeline**
 September (Week 1) 
 Create project proposal  (Sep 30)
 October (Week 2-3)
